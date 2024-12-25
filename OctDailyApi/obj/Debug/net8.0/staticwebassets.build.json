@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lRFQ8rzvQ1jNb5MWnQWgQKWCosp5W77FaKP+L4thKws=",
+  "Source": "OctDailyApi",
+  "BasePath": "_content/OctDailyApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
